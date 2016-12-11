@@ -1,0 +1,21 @@
+img {
+	width: 150px;
+}
+.navigation {
+	opacity: 0.5;
+	background-color: red;
+	height: 100px;
+	position: fixed;
+	left: 0;
+	top: 0;
+	width: 100%;
+}
+
+.ex{
+	padding: 15px 20px 20px 10px;
+	position: absolute;
+	width: 400px;
+	height: 400px;
+	background-color: red;
+	left: 50%;
+	margin-left: -200px;
